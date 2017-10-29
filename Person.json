@@ -1,0 +1,55 @@
+{
+	"Person":{
+		"ForeName":"Colin",
+		"SurName":"But",
+		"Age":29,
+		"Date-of-Birth":"27/02/1988",
+		"Current-Address":[{
+			"HouseNumber":45,
+			"HouseName":"East Castle",
+			"StreetName":"Beef Wellington",
+			"PostCode":"AB1 4KU",
+			"City":"City Name",
+			"Region":"Landon",
+			"Country":"England"
+			}],
+		"Previous-Address":[{
+			"HouseNumber":18,
+			"HouseName":"Book Shelves",
+			"StreetName":"98 - 62 Paint Art",
+			"PostCode":"DF4 93C",
+			"City":"Sunderland",
+			"Region":"West Midlands",
+			"Country":"England"
+			}],
+		"NI Number":"RD233577L",
+		"Occupation":"Software Engineer",
+		"Work":"My Company",
+		"Car":"None",
+		"Girlfriend":"No Comment",
+		"Family":["Dad","Mum","Brother"],
+		"Technical Skills":[
+			{"Java":["Java", "Java"]},
+			{".NET":["C#","WinForms","WPF","ADO.NET","Visual Basic"]},
+			{"Web":
+				[{"HTML":["HTML5","XHTML"],
+				  "CSS":"CSS3",
+				  "JavaScript":["JQuery","Vanilla","Prototype","Polymer","AngularJS","React.js"],
+				  "PHP":["Codeigniter","Symfony"]
+			}]
+			},
+			{"Dynamic Scripting":["Python","Groovy","Ruby","Scala?","Jython"]},
+			{"Scripting":["Bash", "MS-DOS"]},
+			{"Data":["XML","XSLT","XPath","XQuery","XSL","XSD","DTD","JSON"]},
+			{"Build":["Maven","Gradle","Ant"]},
+			{"CI":["Jenkins","CruiseControl", "Hudson", "GoCD", "TravisCI", "Atlassian Bamboo"]},
+			{"Unit Testing":["JUnit","NUnit", "Mockito"]},
+			{"SCM":["Git","SVN","Perforce","CVS"]},
+			{"OS":[{"Windows":["XP","7","8","8.1","Server 2003"],"Unix/Linux":["Ubuntu","Red Hat", "Kubuntu", "Solaris"],"Apple":["Mac OSX"]}]},
+			{"Other":["UML","Remote Debugging"]},
+			{"Tooling":["JIRA","Confluence","FogBugz","DevTrack"]},
+			{"Performance Analysis":["JProfiler","JMap","VisualVM","JConsole"]},
+			{"Technical Testing":["Performance Testing","Soak Testing","Resiliency Testing","Failover & Recovery Testing","Stress Testing","Load Testing","Capacity Testing","Smoke Testing","Regression Testing"]}
+		]
+	}
+}
